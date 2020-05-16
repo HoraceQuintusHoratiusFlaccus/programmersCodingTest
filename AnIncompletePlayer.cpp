@@ -4,8 +4,7 @@
 
 using namespace std;
 
-string solution(vector<string> participant, vector<string> completion)
-{
+string solution(vector<string> participant, vector<string> completion) {
     map<string, int> partInfo;
     
     for (string name : participant)
