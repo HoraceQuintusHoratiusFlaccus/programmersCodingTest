@@ -3,8 +3,7 @@
 
 using namespace std;
 
-vector<int> solution(vector<int> arr) 
-{
+vector<int> solution(vector<int> arr) {
     /* return value of unique () function */
     /* An iterator to the element that follows the last element not removed. */
     /* erase(const_iterator first, const_iterator last) */
